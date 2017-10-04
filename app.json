@@ -2,6 +2,6 @@
 	"name": "Demo app",
 	"description": "Demo description",
 	"repository": "https://github.com/toxtli/heroku-deploy-to-button-example",
-	"logo": "http://toxtli.github.io/heroku-deploy-to-button-example/logo.png",
+	"logo": "http://toxtli.github.io/heroku-deploy-to-button-example/logo.jpg",
 	"keywords": ["heroku"]  
 }
